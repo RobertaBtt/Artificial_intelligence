@@ -12,11 +12,33 @@ that can be described by the system. Problem, operations and solutions are repre
  - **A general porpoise algorythm**, that should find the solution
 
 We have **two families** of algorythm and techniques:
-1) automatic reasoning
-2) search based
+1) Automatic reasoning
+2) Search based
 
 ---
 ### Automatic Reasoning 
 
 The area of AI that studies how to create the systems able to "reasoning" in a similar way human does.
 They are **expert systems**.
+It was in the 1970 that A system to diagnoses the infectios of the blood was 
+developed: it generated solutions based
+on personal information of the patient.
+The system applied an inference system of 500 rules.
+
+Also here we have:
+1) a **Conceptual model**, defined by a group of experts
+2) The **High Level Language** (the First-Order preposition logic)
+3) The **Inference Mechanism** : the algorythm to solve the problem based on the conceptual model.
+
+Depending on how this type of information is defined, it is possible
+to define different models of reasoning:
+
+#### Reasoning based on Rules
+#### Case-Based Reasoning (CBR)
+#### Based on Bayesian inference
+#### Fuzzy Recognition
+#### Other types
+
+---
+### Search 
+

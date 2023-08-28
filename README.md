@@ -1,8 +1,12 @@
 # Artificial Intelligence
+<img src="AI.png" alt="AI" style="width:130px;"/>
 
-AI is any project or system that tries to understand and replicate the behaviour of the human beings.
+##### AI is any project or system that tries to understand and replicate the behaviour of the human beings.
 
-In the book "Srtificial Intelligence: a modern approach" Russel and Novig identified 4 groups that encompasses different definitions of AI:
+
+---
+
+In the book "Artificial Intelligence: a modern approach" Russel and Novig identified 4 groups that encompasses different definitions of AI:
  - systems that think like humans
  - systems that think rationally
  - systems that act like humans
