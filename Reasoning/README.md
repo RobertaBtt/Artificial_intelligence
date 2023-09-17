@@ -18,7 +18,7 @@ We have **two families** of algorythm and techniques:
 ---
 ### Automatic Reasoning 
 
-The area of AI that studies how to create the systems able to "reasoning" in a similar way human does.
+The area of AI that studies how to create the systems able to "reasoning" in a similar way humans do.
 They are **expert systems**.
 It was in the 1970 that A system to diagnoses the infectios of the blood was 
 developed: it generated solutions based

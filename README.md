@@ -17,31 +17,47 @@ To meet these four premises, AI-based systems that seek to emulate human behaviu
 2) reasoning
 3) predictive
 4) manipulate skills
-as a consequence, AI is divided into multimple areas:
 
-1) Knowledge representation: it's the AI area that is in charge of finind the best way to represent information
+
+As a consequence, AI is divided into multimple areas:
+
+1) **Knowledge representation**: it's the AI area that is in charge of finind the best way to represent information
 It collects and order the information, creating hierarchies  and relationships between the element represented.
-2) Automated reasoning: it's the area of AI in charge of developing algorithms to simulate knowledge interface.
+2) **Automated reasoning**: it's the area of AI in charge of developing algorithms to simulate knowledge interface.
 The ability to inference (dedurre) is human ! The computer will be able to solve the problem using 
 the knowledge base previously established and techniques of logical satisfiability.
    (Example of the Rubik's Cube)
-3) Machine Learning: it's the area in charge of handling data processing to identify similar behaviour groups, trends
+3) M**achine Learning**: it's the area in charge of handling data processing to identify similar behaviour groups, trends
 predictions. It trains a system with a set of data and returns a MODEL that will
 classify or identify the new information.
 - data processing to identify patterns
 - elaboration of a model throught a training phase and a test phase.
 
-4) Natural Language Processing: it's in charge of language recognition. It recognizes languages with the voice,
+4) **Natural Language Processing**: it's in charge of language recognition. It recognizes languages with the voice,
 processes syntatically and semantically what it heards, understandint the subject.
 Elaborates a sentence to reply
-5) Computer Vision: it's in charge to recognize elements or situations by relative images or recordings.
+5) **Computer Vision**: it's in charge to recognize elements or situations by relative images or recordings.
 Detenction of dangerous scenarios and emotions.
-6) Robotics: encompasses all these areas we saw. AI plays a decisive role in evolving the software of these robots.
+6) **Robotics**: encompasses all these areas we saw. AI plays a decisive role in evolving the software of these robots.
 
 AI systems must have at least:
 - perceptions
 - reasoning prediction
 - manipulation abilities
+
+## AI: Narrow and General
+
+![AI_narrow_general.png](AI_narrow_general.png)
+
+The technological paradigm of AI was changing over the years to, distancing from the idea of
+focusing on developing a system that perfectly emulated a human being
+
+This new technological paradigm, known as 
+**Narrow AI**, limited the scope and pretensions of this
+technology, now proposing not to solve any kind of task with the same system, but to develop
+systems **very specialized** in the resolution of certain specific tasks, where, again, they could solve
+them more efficiently than a human being
+
 
 ## Key concepts:Agents, knowledge Representation
 
@@ -62,7 +78,7 @@ without taking into account the history of previous actions or situations.
 So the range of behaviors is limited by the knowledge base available, and are simple
 interactions with humans is little as possible.
 
-*D**eliberate agents***: are fully aware of the environment and its changes,
+**Deliberate agents***: are fully aware of the environment and its changes,
 the know how to cope with changes. The maximum expression of this type of behaviour would
 be the autonomous agents, able to reason in any kind of situations
 
