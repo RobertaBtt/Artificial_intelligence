@@ -355,3 +355,29 @@ So, Data Mining is an application of Artificial Intelligence:
 **Data mining** includes
 knowledge and work on information systems that act as a repository for such data (database
 systems), as well as data extraction and preparation techniques
+
+## Prepare Local environment
+
+### Environment - POSIX
+**Install python3. Last Version is now 3.10.6**
+
+**Create a hidden folder with the local python environment with this command**
+
+(We give the arbitrary name of ml_venv.It is just the name of a folder)
+
+`python3 -m venv .ml_venv`
+
+
+**Activate the environment**
+
+`source .ml_venv/bin/activate`
+
+**Install the requirements**
+
+pip install matplotlib
+pip install pandas
+pip install scikit-klearn
+pip install statsmodel
+
+
+`pip3 install -r requirements.txt`
